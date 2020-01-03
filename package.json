@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OliverForral/component-library/issues"
   },
-  "homepage": "https://github.com/OliverForral/component-library#readme"
+  "homepage": "https://github.com/OliverForral/component-library#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
 }
