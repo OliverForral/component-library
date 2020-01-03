@@ -1,0 +1,19 @@
+{
+  "name": "component-library",
+  "version": "1.0.0",
+  "description": "following the tutorial here https://www.pluralsight.com/guides/react-typescript-module-create",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverForral/component-library.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OliverForral/component-library/issues"
+  },
+  "homepage": "https://github.com/OliverForral/component-library#readme"
+}
